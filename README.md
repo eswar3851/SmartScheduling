@@ -6,6 +6,10 @@
 
 SmartScheduling is a comprehensive, modern appointment scheduling and patient management system designed specifically for healthcare providers, clinics, and telehealth services. Built with cutting-edge technology and AI-powered features, it offers two distinct versions to meet different practice needs.
 
+## 🌐 Live Demo
+
+Experience SmartScheduling in action: [Live Demo](https://smart-scheduling-blush.vercel.app/)
+
 ### ✨ Key Features
 
 - **AI-Powered Scheduling**: Intelligent appointment optimization and no-show prediction
